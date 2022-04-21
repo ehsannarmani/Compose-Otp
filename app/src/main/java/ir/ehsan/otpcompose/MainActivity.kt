@@ -34,7 +34,6 @@ class MainActivity : ComponentActivity() {
 //                    animationSpec = tween(400)
 //                )
 
-
                 Surface(
                     modifier = Modifier.fillMaxSize(),
                     color = Color.White

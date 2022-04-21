@@ -6,9 +6,7 @@ import androidx.compose.runtime.Composable
 import androidx.compose.runtime.mutableStateListOf
 import androidx.compose.runtime.remember
 import androidx.compose.ui.unit.dp
-import ir.ehsan.otpcompose.OtpBox
-import ir.ehsan.otpcompose.OtpValue
-import ir.ehsan.otpcompose.each
+import ir.ehsan.otpcompose.utils.extensions.each
 
 @Composable
 fun Otp(

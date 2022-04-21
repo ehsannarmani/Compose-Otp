@@ -28,7 +28,6 @@ import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.TextUnit
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import ir.ehsan.otpcompose.OtpValue
 import ir.ehsan.otpcompose.errorColor
 import ir.ehsan.otpcompose.successColor
 
